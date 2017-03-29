@@ -1,0 +1,9 @@
+Jan Nowak 2000
+Irena Pierwsza 3000
+Irena Druga    2500
+Krzysztof Mrugala 3500
+Tadeusz Pat 2000
+Emiliusz Jeden 1200
+Adam Arma 6000
+Kornel Robo 5000
+

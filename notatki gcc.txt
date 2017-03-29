@@ -1,0 +1,13 @@
+gcc -o nazwa nazwa.c //nazwanie outpotu
+
+gcc nazwa.c //od razu outpot
+
+-save-temps //zapisauje posrednie pliki z assemblera itp
+
+-O0 //bez optymalizacji (DUZE o) (domyslne)
+
+-O2 //wolniej kompiluje, szybciej liczy
+
+-O3 //jeszcze szybciej liczy
+
+-nostdlib //do assemblera zad4
